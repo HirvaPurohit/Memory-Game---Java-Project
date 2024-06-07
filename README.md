@@ -10,7 +10,7 @@ Memory Game is a fun and interactive card-matching game developed using Java and
 - **Score Tracking**: The game keeps track of your total guesses and correct guesses.
 - **Play Again**: Option to restart the game and play again.
 
-  # Output
+## Output
   
 ![g1](https://github.com/HirvaPurohit/Memory-Game---Java-Project/assets/131869875/b7258175-c43b-45ff-a7b5-b241fc3053d4) 
 
